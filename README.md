@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mAtwAe
+- 👋 Hi, I’m Ridhuan
 - 👀 I’m interested in aututomating things
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java security jwt
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me : mohdridhuan95@gmail.com
 
 <!---
