@@ -8,6 +8,7 @@
  
  - Java
  - JavaScript
+ - Python
  - React.js/Next.js
 <!---
 mAtwAe/mAtwAe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
