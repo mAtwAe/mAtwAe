@@ -16,7 +16,7 @@ I thrive on solving problems and turning ideas into reality through **software d
 Here are some of my learning repositories:
 - [Learning Repo](https://github.com/mAtwAe/Learning) <!-- Replace with actual repo link and name -->
 - [My Blog](https://github.com/mAtwAe/hugo-bearblog)
-- [My personal repo]([#](https://github.com/mAtwAe/my-project))
+- [My personal repo](https://github.com/mAtwAe/my-project)
 
 *Let me know if you want to showcase specific repositories!*
 
