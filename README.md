@@ -1,16 +1,33 @@
-- 👋 Hi, I’m Ridhuan
-- 👀 I’m interested in aututomating things
-- 🌱 I’m currently learning Cloud Computing
-- 📫 How to reach me : mohdridhuan95@gmail.com
+![Visitor Count](https://komarev.com/ghpvc/?username=mAtwAe&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mAtwAe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mAtwAe&layout=compact&theme=radical)
 
+# Hi there, I'm Ridhuan 👋
 
- Stack:
- 
- - Java
- - JavaScript
- - Python
- - React.js/Next.js
-<!---
-mAtwAe/mAtwAe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a friendly and passionate **Software Engineer** who loves building things that can make a difference.  
+My top languages include **Java, Python, Golang, C#, JavaScript, SQL, HTML, and CSS**.  
+I thrive on solving problems and turning ideas into reality through **software development**.
+
+## 🚀 Goals
+- **Develop apps that contribute to society**
+- Always learning and growing my skill set
+
+## 🌱 Currently Learning
+Here are some of my learning repositories:
+- [Repository 1](#) <!-- Replace with actual repo link and name -->
+- [Repository 2](#)
+- [Repository 3](#)
+
+*Let me know if you want to showcase specific repositories!*
+
+## ⚡ Fun Facts
+- 🏃 I love running to clear my mind and stay fit
+- 🧬 A big fan of science and exploring how things work
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ridhuan-salleh/)
+- [Personal Website](https://ridhuan.dev)
+
+---
+
+> *“Keep learning, keep building, and let’s create a positive impact together!”*
